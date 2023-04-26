@@ -1,0 +1,91 @@
+body{
+ 
+background-color: rgb(62, 9, 48);
+
+}
+
+#first{
+  display: inline-block;
+  width: 800px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: antiquewhite;
+  padding-top: 70px;
+  height: 100%;
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 45px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ 
+
+#hire{
+    border-color: black;
+    background-color: transparent;
+    border-radius: 5px;
+    border-width: 1.5px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#button{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+#button:hover{
+    background-color: rgb(180, 124, 176);
+}
+
+#about{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: inline-block;
+  background-color: white;
+  margin-left: 45px ;
+  padding-left: 120px;
+  padding-top:90px ;
+  padding-right: 180px;
+  padding-bottom: 250px;
+  width: 800px;
+  height: 100%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  
+}
+
+#basic{
+    text-align: left;
+    margin-left: 500px;
+    width: 50%;
+    margin-top: -162px;
+}
+
+#edu{
+    margin-top: 150px;
+}
+
+#comp{
+    margin-left: 500px;
+    margin-top: -263px;
+}
+ 
+#lang{
+    margin-left: 680px;
+    margin-top: -191.5px;
+
+}
+
+#compp{
+    margin-top: 180px;
+}
+
+#prc{
+    margin-left: 500px;
+    margin-top: -191.5px;
+}
+
