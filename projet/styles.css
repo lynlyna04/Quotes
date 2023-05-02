@@ -4,12 +4,22 @@ background-color: rgb(62, 9, 48);
 
 }
 
+img{
+    height: 160px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    margin-top: 162px;
+    margin-left:514px ;
+}
+
 #first{
   display: inline-block;
   width: 800px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: antiquewhite;
+  background-color: rgb(241, 215, 215);
   padding-top: 70px;
   height: 100%;
   text-align: center;
@@ -50,7 +60,7 @@ background-color: rgb(62, 9, 48);
   padding-left: 120px;
   padding-top:90px ;
   padding-right: 180px;
-  padding-bottom: 250px;
+  padding-bottom: 220px;
   width: 800px;
   height: 100%;
   border-bottom-left-radius: 10px;
